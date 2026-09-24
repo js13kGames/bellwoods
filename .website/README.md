@@ -1,4 +1,8 @@
 ---
+genres:
+  - music
+  - adventure
+  - casual
 post: https://mattdesl.svbtle.com/bellwoods
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
